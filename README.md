@@ -40,3 +40,7 @@ The report and dashboard explore:
 
 ## Key Takeaway
 This project demonstrates my ability to prepare, organize, analyze, and visualize data using Excel, turning raw employee information into a structured report and dashboard.
+
+## Dashboard Preview
+
+![Employee Data Analysis Dashboard](dashboard-preview.png)
